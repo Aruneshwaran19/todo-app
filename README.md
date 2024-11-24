@@ -32,7 +32,7 @@ A simple **To-Do App** created using **HTML**, **CSS**, and **JavaScript**. This
    ```bash
    git clone https://github.com/Aruneshwaran19/todo-app.git
 
-   ## Future Improvements
+## Future Improvements
 - **Search Functionality**: Add a search bar to filter tasks based on keywords.
 - **Edit Tasks**: Allow users to edit the text of an existing task.
 - **Sort Tasks**: Provide options to sort tasks by creation time, alphabetical order, or completion status.
@@ -56,7 +56,7 @@ A simple **To-Do App** created using **HTML**, **CSS**, and **JavaScript**. This
 ---
 
 ## Screenshot
-![TODO App Screenshot](![Screenshot (469)](https://github.com/user-attachments/assets/f604a4ce-bc68-40e4-b44c-1a927d3b1536)
+[TODO App Screenshot]![Screenshot (469)](https://github.com/user-attachments/assets/f604a4ce-bc68-40e4-b44c-1a927d3b1536)
 )
 
 ---
