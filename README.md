@@ -32,6 +32,22 @@ A simple **To-Do App** created using **HTML**, **CSS**, and **JavaScript**. This
    ```bash
    git clone https://github.com/Aruneshwaran19/todo-app.git
 
+2. Navigate to the project directory:
+```bash
+   cd todo-app
+```
+
+3. Open the index.html file in any web browser to run the app.
+
+## Project Structure
+```
+.
+├── index.html         # Main HTML file
+├── style.css          # CSS file for styling
+└── script.js          # JavaScript file for functionality
+```
+
+
 ## Future Improvements
 - **Search Functionality**: Add a search bar to filter tasks based on keywords.
 - **Edit Tasks**: Allow users to edit the text of an existing task.
@@ -56,8 +72,8 @@ A simple **To-Do App** created using **HTML**, **CSS**, and **JavaScript**. This
 ---
 
 ## Screenshot
-[TODO App Screenshot]
-![Screenshot (469)](https://github.com/user-attachments/assets/5b04540b-1589-47c6-a079-7ff5879faf28)
+![Screenshot (473)](https://github.com/user-attachments/assets/aacf9bac-8459-4982-a5a9-d198c7426093)
+
 
 
 ---
