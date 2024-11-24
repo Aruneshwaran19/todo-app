@@ -56,8 +56,9 @@ A simple **To-Do App** created using **HTML**, **CSS**, and **JavaScript**. This
 ---
 
 ## Screenshot
-[TODO App Screenshot]![Screenshot (469)](https://github.com/user-attachments/assets/f604a4ce-bc68-40e4-b44c-1a927d3b1536)
-)
+[TODO App Screenshot]
+![Screenshot (469)](https://github.com/user-attachments/assets/5b04540b-1589-47c6-a079-7ff5879faf28)
+
 
 ---
 
