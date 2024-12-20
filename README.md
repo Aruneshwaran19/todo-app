@@ -25,6 +25,10 @@ A simple **To-Do App** created using **HTML**, **CSS**, and **JavaScript**. This
 3. Press **Enter** or click the **Add Todo** button to add the task to the list.
 4. Tasks will appear instantly in the list below the input field.
 
+## Live Demo
+
+You can try out the app by visiting the [Live Demo Link](https://todoapp-arun.netlify.app/).
+
 ---
 
 ## Installation Instructions
